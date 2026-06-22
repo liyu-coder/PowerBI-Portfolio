@@ -19,7 +19,6 @@ A Power BI dashboard was developed using a CSV dataset containing 90 days of ope
 * CSV Dataset
 * DAX Measures
 * Microsoft Excel
-* ChatGPT (for dataset generation and DAX guidance)
 
 ## Dashboard Features
 
